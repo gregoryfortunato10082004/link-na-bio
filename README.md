@@ -17,7 +17,7 @@ Projeto desenvolvido por Grégory Fortunato através do curso promovido pela pla
 <br>
 
 <p align="center">
-  <img alt="Projeto AllMyLinks" src=".github/allmylinks-preview.jpg" width="100%">
+  <img alt="Projeto AllMyLinks" src=".github/README-MAGNOLIAS.png" width="100%">
 </p>
 
 <br>
